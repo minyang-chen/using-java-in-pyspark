@@ -2,7 +2,7 @@
 
 There are many reason we want to call java function inside pyspark notebook such as implementation protection, reuse existing coding logic and skillset...etc.
 
-[Medium Article: Utilizing Java In PySpark] (https://mychen76.medium.com/utilizing-java-in-pyspark-fd386b3eaaf5)
+[Medium Article: Utilizing Java In PySpark](https://mychen76.medium.com/utilizing-java-in-pyspark-fd386b3eaaf5)
 
 
 **how to reuse existing java code functionality in pyspark notebook**
